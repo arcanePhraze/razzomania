@@ -5,54 +5,15 @@
     <description>The void calls...</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2023 21:24:23 -0600</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2023 21:24:23 -0600</lastBuildDate>
+    <pubDate>Mon, 20 Mar 2023 09:56:48 -0600</pubDate>
+    <lastBuildDate>Mon, 20 Mar 2023 09:56:48 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>4</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/pages/004.png&quot; alt=&quot;PAGE FOUR&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 23 Apr 2017 12:42:56 -0600</pubDate>
-        <link>http://localhost:4000/004</link>
-        <guid isPermaLink="true">http://localhost:4000/004</guid>
-        
-        
-        <category>page</category>
-        
-      </item>
-    
-      <item>
-        <title>3</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/pages/003.png&quot; alt=&quot;PAGE THREE&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 23 Apr 2017 12:42:56 -0600</pubDate>
-        <link>http://localhost:4000/003</link>
-        <guid isPermaLink="true">http://localhost:4000/003</guid>
-        
-        
-        <category>page</category>
-        
-      </item>
-    
-      <item>
-        <title>2</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/pages/002.png&quot; alt=&quot;PAGE TWO&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 23 Apr 2017 12:42:56 -0600</pubDate>
-        <link>http://localhost:4000/002</link>
-        <guid isPermaLink="true">http://localhost:4000/002</guid>
-        
-        
-        <category>page</category>
-        
-      </item>
-    
-      <item>
-        <title>1</title>
+        <title>Beginning</title>
         <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/pages/001.png&quot; alt=&quot;PAGE ONE&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Apr 2017 12:42:56 -0600</pubDate>
+        <pubDate>Fri, 20 Mar 2020 09:43:00 -0600</pubDate>
         <link>http://localhost:4000/001</link>
         <guid isPermaLink="true">http://localhost:4000/001</guid>
         
