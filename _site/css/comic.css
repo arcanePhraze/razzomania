@@ -55,7 +55,7 @@ body {
 /*=============================*/
 
 .jumbotron {
-  background-color:white;
+  background-color:purple;
   /*background-image: url(http://localhost:4000/images/header-bg.jpg);*/
   font-family: 'Courier Prime', sans-serif;
 }
@@ -66,8 +66,8 @@ body {
 }
 
 .jumbotron img {
-  height: 100%;
-  width: 100%;
+  height: 50%;
+  width: 50%;
 }
 
 .jumbotron h1 {
