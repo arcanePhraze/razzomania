@@ -5,8 +5,7 @@ body {
   font-size: 15px;
   color: #424142;
   padding-top: 20px;
-  background-image: url(http://localhost:4000/images/grid.png);
-  background-color: gray;
+  background-color: purple;
 }
 
 .panel {
@@ -16,27 +15,27 @@ body {
 
 .panel p {
   padding: 0px 25px 0px 25px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Courier Prime', sans-serif;
 }
 
 .panel h1 {
   font-size: 30px;
   font-weight: regular;
-  font-family: 'Arvo', serif;
+  font-family: 'Courier Prime', sans-serif;
   padding: 0px 25px 0px 25px;
 }
 
 .panel h2 {
   font-size: 20px;
   font-weight: bold;
-  font-family: 'Arvo', serif;
+  font-family: 'Courier Prime', serif;
   padding: 0px 25px 0px 25px;
 }
 
 .panel h3 {
   font-size: 14px;
   font-weight: bold;
-  font-family: 'Arvo', serif;
+  font-family: 'Courier Prime', serif;
   padding: 0px 25px 0px 25px;
 }
 
@@ -56,8 +55,9 @@ body {
 /*=============================*/
 
 .jumbotron {
-  background-image: url(http://localhost:4000/images/header-bg.jpg);
-  font-family: 'Fredoka One', cursive;
+  background-color:white;
+  /*background-image: url(http://localhost:4000/images/header-bg.jpg);*/
+  font-family: 'Courier Prime', sans-serif;
 }
 
 .container .jumbotron {
@@ -71,11 +71,12 @@ body {
 }
 
 .jumbotron h1 {
-  font-family: 'Fredoka One', cursive;
+  font-family: 'Courier Prime', sans-serif;
+  font-weight: bold;
 }
 
 .jumbotron p {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Courier Prime', sans-serif;
 }
 
 .jumbotron a {
@@ -119,7 +120,7 @@ body {
 }
 
 .navbar .navbar-nav {
-  font-family: 'Arvo', serif;
+  font-family: 'Courier Prime', serif;
   margin-left: auto;
   display: inline-block;
   float: none;

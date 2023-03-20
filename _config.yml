@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Razzomania
 tab_title: Razzomania #This text shows up on the browser tab
+author: arcanePhraze
 email:
 description: The void calls...
 url: "https://arcanephraze.github.io/razzomania" # the base hostname & protocol for your site
