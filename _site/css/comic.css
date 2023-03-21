@@ -62,7 +62,7 @@ body {
 
 .container .jumbotron {
   padding: 30px 0px 30px 0px;
-  text-align: center; //left, right, or center
+  text-align: center; /*left, right, or center*/
 }
 
 .jumbotron img {
