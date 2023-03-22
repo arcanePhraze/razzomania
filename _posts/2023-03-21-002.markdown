@@ -1,0 +1,9 @@
+---
+layout: comic
+date:   2020-03-21 18:43
+title: Second
+page: 2
+categories: page
+permalink: /002
+---
+![PAGE TWO]({{ site.url }}/pages/002.png)

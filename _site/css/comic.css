@@ -49,7 +49,9 @@ body {
   float: none;
 }
 
-
+.pager {
+  font-family: 'Courier Prime', sans-serif;
+}
 
 /* HEADER STYLES */
 /*=============================*/
