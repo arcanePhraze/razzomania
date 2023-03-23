@@ -126,7 +126,7 @@ body {
 .navbar .navbar-nav {
   font-family: 'Courier Prime', serif;
   margin-left: auto;
-  display: inline-block;
+  margin-right: auto;
   float: none;
   vertical-align: top;
 }
