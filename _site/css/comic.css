@@ -68,6 +68,7 @@ body {
   background-color:purple;
   /*background-image: url(http://localhost:4000/images/header-bg.jpg);*/
   font-family: 'Courier Prime', sans-serif;
+  margin: auto;
 }
 
 .container .jumbotron {
@@ -77,6 +78,7 @@ body {
 
 .jumbotron svg {
   justify-content: center;
+  padding: auto;
 }
 
 .jumbotron h1 {
