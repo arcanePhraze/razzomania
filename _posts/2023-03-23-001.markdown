@@ -5,5 +5,5 @@ title: Beginning
 page: 1
 categories: page
 permalink: /read/1
+image: /pages/001.png
 ---
-![PAGE TWO]({{ site.url }}/pages/001.png)

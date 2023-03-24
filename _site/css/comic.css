@@ -10,7 +10,7 @@ body {
 
 .panel {
   background-color: white;
-  min-height: 700px;
+  min-height: 500px;
 }
 
 .panel p {
@@ -40,17 +40,24 @@ body {
 }
 
 .panel img {
-  height: 100%;
-  width: 100%;
+  justify-content: center;
+  padding: auto;
+  height: auto;
 }
 
 .center {
+  justify-content: center;
   margin: auto;
   float: none;
 }
 
 .pager {
   font-family: 'Courier Prime', sans-serif;
+  text-align: center; 
+  padding-top: 16px;
+  padding-left: 0px;
+  padding-right: 24px;
+  padding-bottom: 16px;
 }
 
 /* HEADER STYLES */
@@ -67,9 +74,8 @@ body {
   text-align: center; /*left, right, or center*/
 }
 
-.jumbotron img {
-  height: 50%;
-  width: 50%;
+.jumbotron svg {
+  justify-content: center;
 }
 
 .jumbotron h1 {
@@ -103,10 +109,6 @@ body {
   margin: 0px;
   list-style: none;
 }
-
-
-
-
 
 /* NAVBAR STYLES */
 /*=============================*/
