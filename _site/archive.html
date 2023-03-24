@@ -37,8 +37,7 @@
         </div>
 
         <div class="col-md-12 center">
-            <!-- Fixed navbar -->
-<nav class="navbar navbar-expand-sm navbar-dark bg-dark" role="navigation">
+            <!-- Fixed navbar --><nav class="navbar navbar-expand-sm navbar-dark bg-dark" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggler" aria-controls="navbarNav" aria-expanded="false" data-toggle="collapse" data-target="#collapseContent">
@@ -50,9 +49,15 @@
             <ul class="nav navbar-nav">
                 <li class="navbar-item"><a class="nav-link" href=http://localhost:4000>HOME</a></li>
                 <li class="navbar-item"><a class="nav-link" href=http://localhost:4000/about>ABOUT</a></li>
-                <li class="navbar-item"><a class="nav-link" href=http://localhost:4000/extras>EXTRAS</a></li>
-                <li class="navbar-item"><a class="nav-link" href=http://localhost:4000/archive>ARCHIVE</a></li>
-                <li class="navbar-item"><a class="nav-link" href=http://localhost:4000/001>FIRST PAGE</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">READ</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href=/002>Latest page</a>
+                        <a class="dropdown-item" href=http://localhost:4000/001>First page</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href=http://localhost:4000/archive>Archive</a>
+                    </div>
+                  </li>
             </ul>
         </div>
     </div>

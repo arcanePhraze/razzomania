@@ -37,8 +37,7 @@
         </div>
 
         <div class="col-md-12 center">
-          <!-- Fixed navbar -->
-<nav class="navbar navbar-expand-sm navbar-dark bg-dark" role="navigation">
+          <!-- Fixed navbar --><nav class="navbar navbar-expand-sm navbar-dark bg-dark" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggler" aria-controls="navbarNav" aria-expanded="false" data-toggle="collapse" data-target="#collapseContent">
@@ -50,21 +49,26 @@
             <ul class="nav navbar-nav">
                 <li class="navbar-item"><a class="nav-link" href=http://localhost:4000>HOME</a></li>
                 <li class="navbar-item"><a class="nav-link" href=http://localhost:4000/about>ABOUT</a></li>
-                <li class="navbar-item"><a class="nav-link" href=http://localhost:4000/extras>EXTRAS</a></li>
-                <li class="navbar-item"><a class="nav-link" href=http://localhost:4000/archive>ARCHIVE</a></li>
-                <li class="navbar-item"><a class="nav-link" href=http://localhost:4000/001>FIRST PAGE</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">READ</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href=/002>Latest page</a>
+                        <a class="dropdown-item" href=http://localhost:4000/001>First page</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href=http://localhost:4000/archive>Archive</a>
+                    </div>
+                  </li>
             </ul>
         </div>
     </div>
 </nav>
 
-          <div class="panel center col-md-12">
-
-            <div style="padding: 48px" class="comic-panel center">
+          <div style="padding: 48px" class="panel center col-md-12">
+            <div class="comic-panel center">
               <a name="top-page"></a>
               <a href= http://localhost:4000#top-page><p><img src="http://localhost:4000/pages/002.png" alt="PAGE TWO" /></p>
 </a>
-              <ul class="pager" style="text-align: center; padding: 16px;">
+              <ul class="pager" style="text-align: center; padding: auto;">
     <a class="btn btn-outline-secondary" href= http://localhost:4000/001#top-page >PREVIOUS</a></li>
     <a class="btn btn-outline-primary" href= http://localhost:4000#top-page >NEXT</a></li>
 </ul>

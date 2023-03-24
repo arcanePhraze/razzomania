@@ -1,4 +1,5 @@
 <!-- Fixed navbar -->
+{%- assign latest_post = site.categories.page[0] -%}
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark" role="navigation">
     <div class="container">
         <div class="navbar-header">
@@ -11,9 +12,15 @@
             <ul class="nav navbar-nav">
                 <li class="navbar-item"><a class="nav-link" href={{ site.url }}>HOME</a></li>
                 <li class="navbar-item"><a class="nav-link" href={{ site.url }}/about>ABOUT</a></li>
-                <li class="navbar-item"><a class="nav-link" href={{ site.url }}/extras>EXTRAS</a></li>
-                <li class="navbar-item"><a class="nav-link" href={{ site.url }}/archive>ARCHIVE</a></li>
-                <li class="navbar-item"><a class="nav-link" href={{ site.url }}/001>FIRST PAGE</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">READ</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href={{ latest_post.url }}>Latest page</a>
+                        <a class="dropdown-item" href={{ site.url }}/001>First page</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href={{ site.url }}/archive>Archive</a>
+                    </div>
+                  </li>
             </ul>
         </div>
     </div>
