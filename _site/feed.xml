@@ -5,17 +5,17 @@
     <description>The void calls...</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Mar 2023 18:38:43 -0600</pubDate>
-    <lastBuildDate>Thu, 23 Mar 2023 18:38:43 -0600</lastBuildDate>
+    <pubDate>Thu, 23 Mar 2023 20:04:57 -0600</pubDate>
+    <lastBuildDate>Thu, 23 Mar 2023 20:04:57 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>Second</title>
         <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/pages/002.png&quot; alt=&quot;PAGE TWO&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 21 Mar 2020 18:43:00 -0600</pubDate>
-        <link>http://localhost:4000/002</link>
-        <guid isPermaLink="true">http://localhost:4000/002</guid>
+        <pubDate>Tue, 21 Mar 2023 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/read/2</link>
+        <guid isPermaLink="true">http://localhost:4000/read/2</guid>
         
         
         <category>page</category>
@@ -24,11 +24,11 @@
     
       <item>
         <title>Beginning</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/pages/001.png&quot; alt=&quot;PAGE ONE&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/pages/001.png&quot; alt=&quot;PAGE TWO&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Mar 2020 09:43:00 -0600</pubDate>
-        <link>http://localhost:4000/001</link>
-        <guid isPermaLink="true">http://localhost:4000/001</guid>
+        <pubDate>Mon, 20 Mar 2023 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/read/1</link>
+        <guid isPermaLink="true">http://localhost:4000/read/1</guid>
         
         
         <category>page</category>

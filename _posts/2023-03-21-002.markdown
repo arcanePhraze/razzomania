@@ -1,9 +1,9 @@
 ---
 layout: comic
-date:   2020-03-21 18:43
+date:   2023-03-21
 title: Second
 page: 2
 categories: page
-permalink: /002
+permalink: /read/2
 ---
 ![PAGE TWO]({{ site.url }}/pages/002.png)

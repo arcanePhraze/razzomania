@@ -1,0 +1,9 @@
+---
+layout: comic
+date:   2023-03-20
+title: Beginning
+page: 1
+categories: page
+permalink: /read/1
+---
+![PAGE TWO]({{ site.url }}/pages/001.png)

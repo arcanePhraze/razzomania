@@ -1,9 +1,0 @@
----
-layout: comic
-date:   2020-03-20 09:43
-title: Beginning
-page: 1
-categories: page
-permalink: /001
----
-![PAGE ONE]({{ site.url }}/pages/001.png)

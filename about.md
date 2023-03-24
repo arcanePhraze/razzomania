@@ -3,13 +3,16 @@ layout: default
 title: About
 permalink: /about
 ---
-# About the Comic
+# About
 
-Razzomania is a..
+## What *is* Razzomania?
+Razzomania is a web-based gag comic created by arcanePhraze.
 
-a...
+## What is Razzomania about?
 
-...what *is* it exactly..?
+Razzomania features the varied adventures of its titular character, Raz the Razzo.
+Phraze, a deity banished to the void, is constantly in hot pursuit in attempt to put a stop to their creation's antics.
+
 
 ## Find us elsewhere @:
 {% include socialmedia.html %}
