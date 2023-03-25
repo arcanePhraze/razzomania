@@ -13,11 +13,12 @@ body {
 .panel {
   background-color: white;
   min-height: 500px;
-  padding-top: 20px;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .panel p {
-  padding: 0px 25px 0px 25px;
+  padding: 0px 75px 0px 75px;
   font-family: 'Courier Prime', sans-serif;
 }
 
@@ -32,7 +33,7 @@ body {
   font-size: 20px;
   font-weight: bold;
   font-family: 'Courier Prime', serif;
-  padding: 0px 25px 0px 25px;
+  padding: 0px 50px 0px 50px;
 }
 
 .panel h3 {

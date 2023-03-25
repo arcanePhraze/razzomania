@@ -1,9 +1,0 @@
----
-layout: comic
-date:   2023-03-21
-title: Second
-page: 2
-categories: page
-permalink: /read/2
-image: /pages/002.png
----
