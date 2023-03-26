@@ -19,16 +19,20 @@ Despite their destructive potential, Raz is *usually* well-tempered...
 
 As Raz ventures far and wide, *Phraze* ------ a deity banished to the void ------ is constantly in hot pursuit of their creation in an attempt to put a stop to their "world-breaking mistake".
 
-Will Phraze ever catch Raz? Will Raz ever escape Phraze's watchful eye?\
+Will Phraze ever catch Raz?\
+Will Raz ever escape Phraze's watchful eye?\
 That's what Razzomania is all about!
 
+![Image of Raz the Razzo](images/raz_about.webp "Always cheerful..!") ![Image of Phraze, Arcane Crafter of Worlds](images/phraze_about.webp "Always grumpy..?")
 
 ## Find us elsewhere @:
 {% include socialmedia.html %}
 
-# About the Author
+---
 
-arcanePhraze exists. That's about it.
+## Who is arcanePhraze?
+
+arcanePhraze is an aspiring artist and game developer.
 
 ## Find them elsewhere @:
 {% include authorsocialmedia.html %}
@@ -36,4 +40,5 @@ arcanePhraze exists. That's about it.
 ---
 # Extras
 ## Comic Resources
-This website was made using [the Bootstrap framework](http://getbootstrap.com/) and [Jekyll](https://jekyllrb.com/), a static site generator. You can download the comic website code [here](https://github.com/peahatlanding/Webcomic-Jekyll-Theme).
+This website was made using [the Bootstrap framework](http://getbootstrap.com/) and [Jekyll](https://jekyllrb.com/), a static site generator.\
+You can download the comic website code [here](https://github.com/peahatlanding/Webcomic-Jekyll-Theme).

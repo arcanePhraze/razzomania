@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-03-26
+title: Beginning
+categories: page
+number: 1
+permalink: /read/1
+image: /pages/rm_001.webp
+---
