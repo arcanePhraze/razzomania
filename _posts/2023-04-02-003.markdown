@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-04-02
+title: Sneezed
+categories: page
+number: 3
+permalink: /read/3
+image: /pages/rm_003.webp
+---

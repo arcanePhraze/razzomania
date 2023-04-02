@@ -11,6 +11,7 @@ please click the "About" button on the navigation bar above, or alternatively [c
 To read the comic itself and access the archive of pages,\
 please click the "Read" button on the navigation bar above, or alternatively [click here]({{ site.url }}/archive).
 
+## New comic strips are uploaded every Sunday!!
 
 
 
