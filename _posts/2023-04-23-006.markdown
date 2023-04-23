@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-04-23
+title: Spooked
+categories: page
+number: 6
+permalink: /read/6
+image: /pages/rm_006.webp
+---
