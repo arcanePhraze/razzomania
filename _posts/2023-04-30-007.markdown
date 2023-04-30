@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-04-30
+title: Caked
+categories: page
+number: 7
+permalink: /read/7
+image: /pages/rm_007.webp
+---
