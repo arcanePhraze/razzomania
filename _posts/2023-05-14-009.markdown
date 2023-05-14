@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-05-14
+title: Burning
+categories: page
+number: 9
+permalink: /read/9
+image: /pages/rm_009.webp
+---
