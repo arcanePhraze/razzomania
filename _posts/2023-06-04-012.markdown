@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-06-04
+title: Stunned
+categories: page
+number: 12
+permalink: /read/12
+image: /pages/rm_012.webp
+---
