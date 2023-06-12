@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-06-11
+title: Walking
+categories: page
+number: 13
+permalink: /read/13
+image: /pages/rm_013.webp
+---
