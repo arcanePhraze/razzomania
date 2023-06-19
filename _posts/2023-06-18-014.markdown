@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-06-18
+title: Ignored
+categories: page
+number: 14
+permalink: /read/14
+image: /pages/rm_014.webp
+---
