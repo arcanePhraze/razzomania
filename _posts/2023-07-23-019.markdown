@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-07-23
+title: Bored
+categories: page
+number: 19
+permalink: /read/19
+image: /pages/rm_019.webp
+---
