@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-07-30
+title: Escaped
+categories: page
+number: 20
+permalink: /read/20
+image: /pages/rm_020.webp
+---

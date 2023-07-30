@@ -5,9 +5,22 @@
     <description>A wacky webcomic about the void!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Jul 2023 21:35:25 -0600</pubDate>
-    <lastBuildDate>Sun, 23 Jul 2023 21:35:25 -0600</lastBuildDate>
+    <pubDate>Sun, 30 Jul 2023 16:00:19 -0600</pubDate>
+    <lastBuildDate>Sun, 30 Jul 2023 16:00:19 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Escaped</title>
+        <description>
+</description>
+        <pubDate>Sun, 30 Jul 2023 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/read/20</link>
+        <guid isPermaLink="true">http://localhost:4000/read/20</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
     
       <item>
         <title>Bored</title>
@@ -120,19 +133,6 @@
         <pubDate>Sun, 28 May 2023 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/read/11</link>
         <guid isPermaLink="true">http://localhost:4000/read/11</guid>
-        
-        
-        <category>page</category>
-        
-      </item>
-    
-      <item>
-        <title>Unburied</title>
-        <description>
-</description>
-        <pubDate>Sun, 21 May 2023 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/read/10</link>
-        <guid isPermaLink="true">http://localhost:4000/read/10</guid>
         
         
         <category>page</category>
