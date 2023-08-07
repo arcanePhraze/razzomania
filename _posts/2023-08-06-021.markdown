@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-08-06
+title: Building
+categories: page
+number: 21
+permalink: /read/21
+image: /pages/rm_021.webp
+---
