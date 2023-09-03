@@ -5,9 +5,22 @@
     <description>A wacky webcomic about the void!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Aug 2023 21:15:17 -0600</pubDate>
-    <lastBuildDate>Sun, 27 Aug 2023 21:15:17 -0600</lastBuildDate>
+    <pubDate>Sun, 03 Sep 2023 16:03:57 -0600</pubDate>
+    <lastBuildDate>Sun, 03 Sep 2023 16:03:57 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Floating</title>
+        <description>
+</description>
+        <pubDate>Sun, 03 Sep 2023 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/read/25</link>
+        <guid isPermaLink="true">http://localhost:4000/read/25</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
     
       <item>
         <title>Pushed</title>
@@ -120,19 +133,6 @@
         <pubDate>Sun, 02 Jul 2023 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/read/16</link>
         <guid isPermaLink="true">http://localhost:4000/read/16</guid>
-        
-        
-        <category>page</category>
-        
-      </item>
-    
-      <item>
-        <title>Tricked</title>
-        <description>
-</description>
-        <pubDate>Sun, 25 Jun 2023 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/read/15</link>
-        <guid isPermaLink="true">http://localhost:4000/read/15</guid>
         
         
         <category>page</category>
