@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-09-17
+title: Avoided
+categories: page
+number: 27
+permalink: /read/27
+image: /pages/rm_027.webp
+---
