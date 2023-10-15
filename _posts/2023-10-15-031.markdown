@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2023-10-15
+title: Visited
+categories: page
+number: 31
+permalink: /read/31
+image: /pages/rm_031.webp
+---
