@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-11-26
-title: Entangled
-categories: page
-number: 36
-permalink: /read/36
-image: /pages/rm_036.webp
----

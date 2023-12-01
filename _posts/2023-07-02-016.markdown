@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-07-02
-title: Pounced
-categories: page
-number: 16
-permalink: /read/16
-image: /pages/rm_016.webp
----

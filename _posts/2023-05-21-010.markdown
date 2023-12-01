@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-05-21
-title: Unburied
-categories: page
-number: 10
-permalink: /read/10
-image: /pages/rm_010.webp
----

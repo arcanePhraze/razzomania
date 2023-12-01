@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-10-22
-title: Distracted
-categories: page
-number: 32
-permalink: /read/32
-image: /pages/rm_032.webp
----

@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-11-19
-title: Chased
-categories: page
-number: 35
-permalink: /read/35
-image: /pages/rm_035.webp
----

@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-05-28
-title: Dropped
-categories: page
-number: 11
-permalink: /read/11
-image: /pages/rm_011.webp
----

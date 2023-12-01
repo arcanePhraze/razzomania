@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-11-12
-title: Reunited
-categories: page
-number: 34
-permalink: /read/34
-image: /pages/rm_034.webp
----

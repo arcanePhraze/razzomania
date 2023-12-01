@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-09-03
-title: Floating
-categories: page
-number: 25
-permalink: /read/25
-image: /pages/rm_025.webp
----

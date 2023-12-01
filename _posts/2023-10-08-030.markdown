@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-10-08
-title: Isolated
-categories: page
-number: 30
-permalink: /read/30
-image: /pages/rm_030.webp
----

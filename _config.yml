@@ -18,19 +18,7 @@ tab_title: Razzomania #This text shows up on the browser tab
 author: arcanePhraze
 email:
 description: A wacky webcomic about the void!
-url: "https://arcanephraze.github.io" # the base hostname & protocol for your site
-
-# Comic Social Media
-twitter_username: http://twitter.com/razzomaniacomic
-tumblr_username: http://razzomania.tumblr.com 
-patreon_username: 
-
-# Author Social Media
-author_twitter_username: http://twitter.com/arcanePhraze
-author_tumblr_username:
-author_patreon_username:
-
-
+url: "https://arcanephraze.github.io/razzomania/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

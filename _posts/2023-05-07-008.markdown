@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-05-07
-title: Axed
-categories: page
-number: 8
-permalink: /read/8
-image: /pages/rm_008.webp
----

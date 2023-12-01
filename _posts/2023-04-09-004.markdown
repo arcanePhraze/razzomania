@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-04-09
-title: Cheesed
-categories: page
-number: 4
-permalink: /read/4
-image: /pages/rm_004.webp
----

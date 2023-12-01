@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-07-16
-title: Caged
-categories: page
-number: 18
-permalink: /read/18
-image: /pages/rm_018.webp
----

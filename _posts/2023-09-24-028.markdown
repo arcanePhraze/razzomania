@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-09-24
-title: Boosted
-categories: page
-number: 28
-permalink: /read/28
-image: /pages/rm_028.webp
----

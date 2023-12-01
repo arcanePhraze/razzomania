@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-07-09
-title: Sleeping
-categories: page
-number: 17
-permalink: /read/17
-image: /pages/rm_017.webp
----

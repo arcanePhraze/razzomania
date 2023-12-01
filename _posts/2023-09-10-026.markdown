@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-09-10
-title: Ejected
-categories: page
-number: 26
-permalink: /read/26
-image: /pages/rm_026.webp
----

@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-08-20
-title: Charred
-categories: page
-number: 23
-permalink: /read/23
-image: /pages/rm_023.webp
----

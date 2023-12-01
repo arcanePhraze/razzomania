@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-04-16
-title: Weight-ing
-categories: page
-number: 5
-permalink: /read/5
-image: /pages/rm_005.webp
----

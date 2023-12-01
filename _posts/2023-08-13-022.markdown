@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-08-13
-title: Planted
-categories: page
-number: 22
-permalink: /read/22
-image: /pages/rm_022.webp
----

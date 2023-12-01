@@ -1,9 +1,0 @@
----
-layout: comic
-date: 2023-03-26
-title: Wanted
-categories: page
-number: 2
-permalink: /read/2
-image: /pages/rm_002.webp
----

@@ -1,8 +1,0 @@
-<ul class="pager">
-    {% if page.number != 1 %}
-        <a class="btn btn-outline-secondary" href= {{ site.url }}{{ page.previous.url }}#top-page >PREVIOUS</a></li>
-    {% endif %}
-    {% if latest_post != page %}
-    <a class="btn btn-outline-primary" href= {{ site.url }}{{ page.next.url }}#top-page >NEXT</a></li>
-    {% endif %}
-</ul>
