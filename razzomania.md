@@ -3,5 +3,5 @@ layout: default
 title: Old Link
 ---
 <head>
-  <meta http-equiv='refresh' content='0; URL=https://arcanephraze.github.io'>
+  <meta http-equiv='refresh' content='0; URL={{ site.url }}'>
 </head>
